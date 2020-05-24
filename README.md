@@ -1,1 +1,1 @@
-# Git Tutorial with Mike
+# Git Tutorial with Mike the Beast
